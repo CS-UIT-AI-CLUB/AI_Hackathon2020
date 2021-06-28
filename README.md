@@ -1,7 +1,6 @@
 # AICLUB_Hackathon2020
-
+![](https://i.imgur.com/iohqqbX.png)
 UIT AI Club at AI Hackathon 2020 @ AI4VN
-
 ---
 
 # Prepare dataset
