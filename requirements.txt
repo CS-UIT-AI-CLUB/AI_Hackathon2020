@@ -17,4 +17,4 @@ glob2
 pyyaml
 timm
 requests==2.22.0
-urllib3==1.24.2
+urllib3==1.26.5
